@@ -1,9 +1,9 @@
 # Site settings
-title: The Virtual CISO Blog
-SEOTitle: Shane Peden | The Virtual CISO Blog
+title: Work in progress
+SEOTitle: Shane Peden | Work in progress
 header-img: img/post-bg-desk.jpg
 email: shane.peden@risk3sixty.com
-description: "Infomation Security Thoughts, Opinions, and Advice "
+description: "Infomation Security Thoughts, Opinions, and Notes from the Field"
 keyword: "InfoSec, CISO, Cybersecutity, Cyber Risk, Information Security"
 url: "https://r3s-shane.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
@@ -11,7 +11,7 @@ github_repo: "https://github.com/r3s-shane/r3s-shane.github.io"
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Goals determine what you going to be!"
+sidebar-about-description: "Infomation Security Thoughts, Opinions, and Notes from a Virtual CISO in the Field"
 sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 

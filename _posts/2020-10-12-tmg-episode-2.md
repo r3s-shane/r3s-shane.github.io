@@ -5,7 +5,7 @@ subtitle: Tuesday Morning Grind, Ep 2
 date:   2020-10-28
 author: Shane Peden
 description: Tuesday Morning Grind, Ep 2 - Security Program Lifecycle Management.
-header-img: https://risk3sixty.com/wp-content/uploads/2020/07/phalanx_shield_bg.jpg
+header-img: img/phalanx_shield_bg.jpg
 catalog: true
 tags:
     - SecurityProgram

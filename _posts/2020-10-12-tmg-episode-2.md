@@ -23,18 +23,17 @@ But if you zoom out, implementing and managing an Information Security Program c
 
 
 ## The Information Security Program Lifecycle
-<dl>
-  <dt>Step 1: Scoping and Context</dt>
-  <dd>The context of the organization and scope of the information security program need to be re-scope continually. Internal audits and risk assessments should be used to identify changes in the organization that would impact the scope and context of the program.</dd>
+
+**Step 1: Scoping and Context**
+The context of the organization and scope of the information security program need to be re-scope continually. Internal audits and risk assessments should be used to identify changes in the organization that would impact the scope and context of the program.
   
-  <dt>Step 2: Gap and Current State Assessment</dt>
-  <dd>With the scope and context of the security program established, the organization should choose an appropriate framework to align to and perform a current state assessment (or gap assessment). The goal is to identify process and control gaps.</dd>
+**Step 2: Gap and Current State Assessment**
+With the scope and context of the security program established, the organization should choose an appropriate framework to align to and perform a current state assessment (or gap assessment). The goal is to identify process and control gaps.
   
-  <dt>Step 3: Risk Assessment</dt>
-  <dd>Risk Assessment activities consist of the body of work that helps the organization to monitor and identify risks to the security of the organization's assets. Beyond a formal Risk Assessment, it may also include inputs from Business Impact Analysis (BIA), Penetration Tests, Vendor Risk Assessments, and more.</dd>
+**Step 3: Risk Assessment**
+Risk Assessment activities consist of the body of work that helps the organization to monitor and identify risks to the security of the organization's assets. Beyond a formal Risk Assessment, it may also include inputs from Business Impact Analysis (BIA), Penetration Tests, Vendor Risk Assessments, and more.
   
-  <dt>Step 4: Information Security Program Cadence</dt>
-  <dd>Information Security program cadence consists of both the periodic meetings and re-occurring control activities required to ensure that information security does not become siloed, and critical governance functions and controls are operating effectively.</dd>
-</dl>
+**Step 4: Information Security Program Cadence**
+Information Security program cadence consists of both the periodic meetings and re-occurring control activities required to ensure that information security does not become siloed, and critical governance functions and controls are operating effectively.
 
 

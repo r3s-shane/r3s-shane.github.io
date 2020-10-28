@@ -8,7 +8,7 @@ description: Tuesday Morning Grind, Ep 2 - Security Program Lifecycle Management
 header-img: img/post-bg-cook.jpg
 catalog: true
 tags:
-    - Security Program
+    - SecurityProgram
 ---
 
 <p class="intro">In this episode of Tuesday Morning Grind, we discuss risk3sixty's approach to helping startups and high growth technology companies implement information security programs.</p>

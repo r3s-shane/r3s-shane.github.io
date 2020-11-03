@@ -42,4 +42,4 @@ Information Security program cadence consists of both the periodic meetings and 
 
 ### More About The Tuesday Morning Grind?
 
-The Tuesday Morning Grind is a podcast I do every Tuesday at 7am with my teammate, [Christian Hyatt](https://www.linkedin.com/in/christianhyatt/).  You can watch the livestream on [Twitch] (https://www.twitch.tv/risk3sixty), catch the video later on [Youtube](https://www.youtube.com/channel/UCjcD3Vc3Z1FSncd2BvRp9vQ/featured) or subscribe on your platform of choice over at [Anchor FM](https://anchor.fm/risk3sixty).
+The Tuesday Morning Grind is a podcast I do every Tuesday at 7am with my teammate, [Christian Hyatt](https://www.linkedin.com/in/christianhyatt/).  You can watch the livestream on [Twitch](https://www.twitch.tv/risk3sixty), catch the video later on [Youtube](https://www.youtube.com/channel/UCjcD3Vc3Z1FSncd2BvRp9vQ/featured) or subscribe on your platform of choice over at [Anchor FM](https://anchor.fm/risk3sixty).

@@ -9,8 +9,7 @@ catalog: 	true
 tags:
     - SecurityProgram
     - Podcast
-    - Compliance
-    - Leadership
+    - OrgChange
 ---
 
 > Tuesday Morning Grind, Ep 3 - How Tools Impact Culture

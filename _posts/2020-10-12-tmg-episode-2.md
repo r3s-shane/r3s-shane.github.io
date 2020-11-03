@@ -1,12 +1,11 @@
 ---
-layout: post
-title:  "Security Program Lifecycle Management"
-subtitle: Tuesday Morning Grind, Ep 2
-date:   2020-10-28
-author: Shane Peden
-description: Tuesday Morning Grind, Ep 2 - Security Program Lifecycle Management.
+layout:     post
+title:      Security Program Lifecycle Management
+subtitle:   Tuesday Morning Grind, Ep 2
+date:       2020-10-28
+author:     Shane Peden
 header-img: img/blueheader.jpg
-catalog: true
+catalog: 	true
 tags:
     - SecurityProgram
     - Podcast

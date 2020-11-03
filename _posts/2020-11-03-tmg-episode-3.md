@@ -5,7 +5,7 @@ subtitle: Tuesday Morning Grind, Ep 3
 date:   2020-11-03
 author: Shane Peden
 description: Tuesday Morning Grind, Ep 3 - How Tools Impact Culture.
-header-img: img/phalanx.jpg
+header-img: img/blueheader.jpg
 catalog: true
 tags:
     - SecurityProgram

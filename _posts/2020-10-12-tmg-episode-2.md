@@ -5,10 +5,13 @@ subtitle: Tuesday Morning Grind, Ep 2
 date:   2020-10-28
 author: Shane Peden
 description: Tuesday Morning Grind, Ep 2 - Security Program Lifecycle Management.
-header-img: img/phalanx.jpg
+header-img: img/blueheader.jpg
 catalog: true
 tags:
     - SecurityProgram
+	- Podcast
+	- Compliance
+	- Leadership
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LIUUWHnQ1Oc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -36,4 +39,6 @@ Risk Assessment activities consist of the body of work that helps the organizati
 **Step 4: Information Security Program Cadence**
 Information Security program cadence consists of both the periodic meetings and re-occurring control activities required to ensure that information security does not become siloed, and critical governance functions and controls are operating effectively.
 
+### More About The Tuesday Morning Grind?
 
+The Tuesday Morning Grind is a podcast I do every Tuesday at 7am with my teammate, [Christian Hyatt](https://www.linkedin.com/in/christianhyatt/).  You can watch the livestream on [Twitch] (https://www.twitch.tv/risk3sixty), catch the video later on [Youtube](https://www.youtube.com/channel/UCjcD3Vc3Z1FSncd2BvRp9vQ/featured) or subscribe on your platform of choice over at [Anchor FM](https://anchor.fm/risk3sixty).

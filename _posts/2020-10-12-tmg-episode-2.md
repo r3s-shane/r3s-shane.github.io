@@ -9,10 +9,12 @@ header-img: img/blueheader.jpg
 catalog: true
 tags:
     - SecurityProgram
-	- Podcast
-	- Compliance
-	- Leadership
+    - Podcast
+    - Compliance
+    - Leadership
 ---
+
+> Tuesday Morning Grind, Ep 2 - Security Program Lifecycle Management
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LIUUWHnQ1Oc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

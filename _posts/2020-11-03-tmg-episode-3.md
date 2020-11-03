@@ -13,6 +13,8 @@ tags:
 	- OrganazationalChange
 ---
 
+> Tuesday Morning Grind, Ep 3 - How Tools Impact Culture.
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LIUUWHnQ1Oc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Podcast Summary

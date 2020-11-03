@@ -15,7 +15,7 @@ tags:
 
 ## Podcast Summary
 
-<p class="intro">In this episode of Tuesday Morning Grind, we discuss risk3sixty's approach to helping startups and high growth technology companies implement information security programs.</p>
+In this episode of Tuesday Morning Grind, we discuss risk3sixty's approach to helping startups and high growth technology companies implement information security programs.
 
 Security Program Lifecycle Management can seem daunting, especially when viewed through the lens of a massive framework like ISO 27001 or NIST Cybersecurity Framework.
 

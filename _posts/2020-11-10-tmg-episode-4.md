@@ -32,17 +32,19 @@ In this episode of the Tuesday Morning Grind we talk about building a security t
 
 #### What makes people want to be part of any team? ####
 + Surround yourself with the right people and making sure you have **RIGHT PEOPLE IN THE RIGHT SEATS** (Remember [Traction, Ch 4](https://amzn.to/2Iyj6gs)).
-	- The right role is super important. It's great to encourage people out of their comfort zones, but putting a very analytical teammate in a people facing role may put them in a position to fail.
-	- Putting a people person into a very analytical role may cause them to fail.
+	- Putting teammates in the right role is super important. At times, it's also beneficial to encourage people to venture out of their comfort zones in some cases (consider red teamers vs blue teamers and benefits of these teammates experiencing their counterpart's roles)
+	- Right People means they share the company's core values
+	- Right Seats mean the teammate is in a role they will sufficiently fulfil/succeed. The task is properly delegated. 
 + Holding people to account.
-	- Poor performers really make it difficult for some of us to maintain their top game.
-	- Don't let egos get out of control. I have especially noticed a lot of red and blue teamers with God complexes.  Leaders need to think of ways to help them appreciate one another.
+	- Poor performers really make it difficult for some of us to maintain top performance. Team morale may suffer. This might be Right People in the Wrong Seat, or simple a Wrong People situation.
+	- Establish a success baseline. Establish expectations for performance. Develop KPIs to track success.
 + Make security matter in the business
 	- In some organizations security and compliance are treated as a cost center, and burden to the business.
 	- Give the team something to build together. 
 	- Frame problems and challenges as goals the team should be conquering together (**i.e. do hard things together**) and celebrate accordingly once you obtain mission objectives.
+	- Find ways to get the team respect throughout the organization. 
 + Challenge the team to be ahead of the curve:
-	- Identify big problems in the company to solve together (hack weeks)
+	- Identify big problems in the company to solve them together (e.g. hack weeks)
 	- Streamline processes and make them more efficient
 	- Evangelize the mission of your department to the company and beyond
 	- Develop world class documentation

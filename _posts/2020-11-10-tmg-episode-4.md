@@ -21,7 +21,8 @@ tags:
 In this episode of the Tuesday Morning Grind we talk about building a security team that people want to be a part of, and share our thoughts on developing and retaining top performing security professionals. My teammate, Christian Hyatt has also authored a blog post which is a great companion to this podcast. Check it out on the [risk3sixty blog](https://risk3sixty.com/2020/10/05/how-to-recruit-develop-and-keep-top-cybersecurity-talent-part-5/). 
 
 
-## Building Effective Security Teams (Shane's Show Notes)
+## Building Effective Security Teams 
+*(Shane's Show Notes)*
 
 #### Why does this matter? ####
 + Employee engagement is key to both recruiting and retaining top talent. Failure to effectively engage teammates has a real impact to the business:

@@ -1,10 +1,10 @@
 # Site settings
-title: Work in progress
-SEOTitle: Shane Peden | Work in progress
+title: Infomation Security Thoughts, Opinions, and Notes from Shane Peden
+SEOTitle: Shane Peden | Virtual CISO and Cybersecutity Advisor
 header-img: img/bluesteel.jpg
 email: shane.peden@risk3sixty.com
-description: "Infomation Security Thoughts, Opinions, and Notes from the Field"
-keyword: "InfoSec, CISO, Cybersecutity, Cyber Risk, Information Security"
+description: "Infomation Security Thoughts, Opinions, and Notes from Shane Peden"
+keyword: "InfoSec, CISO, Cybersecutity, Cyber Risk, Information Security, Virtual CISO"
 url: "https://r3s-shane.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/r3s-shane/r3s-shane.github.io" 

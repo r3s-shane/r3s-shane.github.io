@@ -1,6 +1,6 @@
 ---
 layout: 	post
-title:  	Building Security Teams, Pt 1
+title:  	Building Security Teams, Part 1
 subtitle: 	Tuesday Morning Grind, Ep 4
 date:   	2020-11-10
 author: 	Shane Peden
@@ -23,13 +23,13 @@ In this episode of the Tuesday Morning Grind we talk about building a security t
 
 ## Building Effective Security Teams (Shane's Show Notes)
 
-####Why does this matter?####
--Employee engagement is key to both recruiting and retaining top talent. Failure to effectively engage teammates has a real impact to the business:
-	-Losing key employees may cost the organization may cost the organization upwards of [216% of their salary](https://www.americanprogress.org/wp-content/uploads/2012/11/CostofTurnover.pdf)!
-	-Disengaged employees are less productive and may bring down team morale.
-	-Turnover impacts business process continuity.
+#### Why does this matter? ####
++ Employee engagement is key to both recruiting and retaining top talent. Failure to effectively engage teammates has a real impact to the business:
+	- Losing key employees may cost the organization may cost the organization upwards of [216% of their salary](https://www.americanprogress.org/wp-content/uploads/2012/11/CostofTurnover.pdf)!
+	- Disengaged employees are less productive and may bring down team morale.
+	- Turnover impacts business process continuity.
 
-####What makes people want to be part of any team?####
+#### What makes people want to be part of any team? ####
 + Surround yourself with the right people and making sure you have **RIGHT PEOPLE IN THE RIGHT SEATS** (Remember [Traction, Ch 4](https://amzn.to/2Iyj6gs)).
 	- The right role is super important. It's great to encourage people out of their comfort zones, but putting a very analytical teammate in a people facing role may put them in a position to fail.
 	- Putting a people person into a very analytical role may cause them to fail.
@@ -48,7 +48,7 @@ In this episode of the Tuesday Morning Grind we talk about building a security t
 	- Implement automation and other innovations less adopted in your industry
 	- **Make the team something exciting to be a part of.**
 
-####Books we discussed in this episode####
+#### Books we discussed in this episode ####
 - Gino Wickman's [Traction: Get a Grip on Your Business](https://amzn.to/2Iyj6gs)
 - Marcus J. Carey's [Tribe of Hackers Security Leaders: Tribal Knowledge form the Best in Cybersecurity Leadership](https://amzn.to/36ns5tk)
 

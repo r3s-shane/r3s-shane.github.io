@@ -17,12 +17,10 @@ tags:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XUSEZPFB_HY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Podcast Summary
-
 In this episode of the Tuesday Morning Grind we continue our discussion on building a security team that people want to be a part of, and share our thoughts on painting a clear path for career progression, creating team unity, and more. My teammate, Christian Hyatt has also authored a blog post which is a great companion to this podcast. Check it out on the [risk3sixty blog](https://risk3sixty.com/2020/10/05/how-to-recruit-develop-and-keep-top-cybersecurity-talent-part-5/). 
 
 
 ## Building Effective Security Teams 
-*(Shane's Show Notes)*
 
 #### Employee Engagement is Key, How Do We Do It? ####
 + Career progression must be authentic. It must be about more than raises and job title changes. That may retain some, but not top performers. 
@@ -44,7 +42,7 @@ In this episode of the Tuesday Morning Grind we continue our discussion on build
 	
 #### You must define your mission and core values and live by them. ####
 + If you do not define your core values and hire and measure the team and candidates against them, hiring great teammates, retaining them, and aligning incentives is going to be extremely difficult. 
-	-Check out the post [How We Measure Candidates at risk3sixty]( https://risk3sixty.com/2018/12/20/how-we-measure-candidates-at-risk3sixty/)
+	- Check out the post [How We Measure Candidates at risk3sixty]( https://risk3sixty.com/2018/12/20/how-we-measure-candidates-at-risk3sixty/)
 
 #### Books we discussed in this episode ####
 - Gino Wickman's [Traction: Get a Grip on Your Business](https://amzn.to/2Iyj6gs)

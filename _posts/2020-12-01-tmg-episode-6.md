@@ -20,7 +20,7 @@ tags:
 In this episode of Tuesday Morning Grind, we talk about the Systems Development Life Cycle (SDLC) with the IT auditor and security assessor in mind. We share some thoughts on the evolution of software development from the Waterfall methodology to Agile, then we talk about the two most common flavors of Agile we see implemented at our client organizations: Scrum and Kanban.
 
 
-## BSDLC Security for IT Auditors
+## SDLC Security for IT Auditors
 
 #### SDLC Context and The Days of Old: Waterfall Methodology ####
 + The Waterfall method is linear and sequential, with one phase usually not starting until the next is complete.

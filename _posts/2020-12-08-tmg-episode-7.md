@@ -10,7 +10,7 @@ tags:
     - SDLC
     - Podcast
     - ITAudit
-	- DevOps
+    - DevOps
 ---
 
 > Tuesday Morning Grind, Ep 7 - DevOps and DevSecOps Overview

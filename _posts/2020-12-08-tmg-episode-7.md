@@ -51,11 +51,11 @@ IT Auditors and Security Assessors often have a hard time understanding the risk
 	- I have authored an in-depth whitepaper which discusses multiple approaches to integrating security throughout the DevOps life-cycle. Request it here: [risk3sixty DevSecOps Whitepaper](https://risk3sixty.com/whitepaper/devsecops-strategies-to-achieve-security-by-design/)
 
 #### Key Concepts of DevOps ####
-+Agile methodology helps us break down large bodies of work into manageable tasks.
-+Continuous integration and delivery/deployment are key to automating the merging, testing, and deployment functions for software releases.
-+Source code repositories (nearly always Git) enable automation and version control capabilities which are foundational to DevOps.
-+IT Service Management and Site Reliability Engineering is the evolution of delivering IT services as a service. It is an integration of many development technologies and approaches to delivering IT services.
-+Incident Management is the organization’s ability to handle unplanned changes, bugs, vulnerabilities, and service interruptions. 
++ Agile methodology helps us break down large bodies of work into manageable tasks.
++ Continuous integration and delivery/deployment are key to automating the merging, testing, and deployment functions for software releases.
++ Source code repositories (nearly always Git) enable automation and version control capabilities which are foundational to DevOps.
++ IT Service Management and Site Reliability Engineering is the evolution of delivering IT services as a service. It is an integration of many development technologies and approaches to delivering IT services.
++ Incident Management is the organization’s ability to handle unplanned changes, bugs, vulnerabilities, and service interruptions. 
 
 #### What is next in the series? ####
 - Part 3: How to Effectively Audit the SDLC for DevOps and modern Agile teams

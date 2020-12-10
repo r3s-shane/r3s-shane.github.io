@@ -1,0 +1,164 @@
+BEGIN:VCALENDAR
+PRODID:-//Microsoft Corporation//Outlook 16.0 MIMEDIR//EN
+VERSION:2.0
+METHOD:REQUEST
+X-MS-OLK-FORCEINSPECTOROPEN:TRUE
+BEGIN:VTIMEZONE
+TZID:Eastern Standard Time
+BEGIN:STANDARD
+DTSTART:16011104T020000
+RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=11
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:16010311T020000
+RRULE:FREQ=YEARLY;BYDAY=2SU;BYMONTH=3
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+ATTENDEE;CN=shane.a.peden@gmail.com;RSVP=TRUE:mailto:shane.a.peden@gmail.co
+	m
+CLASS:PUBLIC
+CREATED:20201210T225913Z
+DESCRIPTION:Topic: Roswell Grace@Work - 12/11 Meeting\n\n \n\nMeet us in pe
+	rson at 555 South Atlanta St. Suite B500 Roswell\, GA 30075\n\n \n\nOR Onl
+	ine at:\n\n\nhttps://us02web.zoom.us/j/87594706023?pwd=S0NIMTRsdU0rQitjdE9
+	kT3pjSkY0QT09 <https://us02web.zoom.us/j/87594706023?pwd=S0NIMTRsdU0rQitjd
+	E9kT3pjSkY0QT09> Meeting ID: 875 9470 6023\nPasscode: 093164\nOne tap mobi
+	le\n+13017158592\,\,87594706023#\,\,\,\,\,\,0#\,\,093164# <tel:+1301715859
+	2\,\,87594706023#\,\,\,\,\,\,0#\,\,093164#>  US (Washington D.C)\n+1312626
+	6799\,\,87594706023#\,\,\,\,\,\,0#\,\,093164# <tel:+13126266799\,\,8759470
+	6023#\,\,\,\,\,\,0#\,\,093164#>  US (Chicago)Dial by your location\n      
+	  +1 301 715 8592 <tel:+13017158592>  US (Washington D.C)\n        +1 312 
+	626 6799 <tel:+13126266799>  US (Chicago)\n        +1 646 558 8656 <tel:+1
+	6465588656>  US (New York)\n        +1 253 215 8782 <tel:+12532158782>  US
+	 (Tacoma)\n        +1 346 248 7799 <tel:+13462487799>  US (Houston)\n     
+	   +1 669 900 9128 <tel:+16699009128>  US (San Jose)\nMeeting ID: 875 9470
+	 6023\nPasscode: 093164\nFind your local number: https://us02web.zoom.us/u
+	/kd1F89ndV4 <https://us02web.zoom.us/u/kd1F89ndV4> \n\n
+DTEND;TZID="Eastern Standard Time":20201211T080000
+DTSTAMP:20201210T225019Z
+DTSTART;TZID="Eastern Standard Time":20201211T070000
+LAST-MODIFIED:20201210T225913Z
+LOCATION:https://us02web.zoom.us/j/87594706023?pwd=S0NIMTRsdU0rQitjdE9kT3pj
+	SkY0QT09 Meeting ID: 875 9470 6023
+ORGANIZER;CN="Shane Peden":mailto:Shane.Peden@risk3sixty.com
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=en-us:Roswell G@W - 12/11 Meeting
+TRANSP:OPAQUE
+UID:040000008200E00074C5B7101A82E008000000008032F6EC1CCFD601000000000000000
+	010000000CA7D252EDA2FA045B446A4DFA43D695C
+X-ALT-DESC;FMTTYPE=text/html:<html xmlns:v="urn:schemas-microsoft-com:vml" 
+	xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-mic
+	rosoft-com:office:word" xmlns:m="http://schemas.microsoft.com/office/2004/
+	12/omml" xmlns="http://www.w3.org/TR/REC-html40"><head><meta name=Generato
+	r content="Microsoft Word 15 (filtered medium)"><style><!--\n/* Font Defin
+	itions */\n@font-face\n	{font-family:"Cambria Math"\;\n	panose-1:2 4 5 3 5
+	 4 6 3 2 4\;}\n@font-face\n	{font-family:Calibri\;\n	panose-1:2 15 5 2 2 2
+	 4 3 2 4\;}\n/* Style Definitions */\np.MsoNormal\, li.MsoNormal\, div.Mso
+	Normal\n	{margin:0in\;\n	font-size:11.0pt\;\n	font-family:"Calibri"\,sans-
+	serif\;}\na:link\, span.MsoHyperlink\n	{mso-style-priority:99\;\n	color:#0
+	563C1\;\n	text-decoration:underline\;}\nspan.EmailStyle17\n	{mso-style-typ
+	e:personal-compose\;\n	font-family:"Calibri"\,sans-serif\;\n	color:windowt
+	ext\;}\n.MsoChpDefault\n	{mso-style-type:export-only\;\n	font-family:"Cali
+	bri"\,sans-serif\;}\n@page WordSection1\n	{size:8.5in 11.0in\;\n	margin:1.
+	0in 1.0in 1.0in 1.0in\;}\ndiv.WordSection1\n	{page:WordSection1\;}\n--></s
+	tyle><!--[if gte mso 9]><xml>\n<o:shapedefaults v:ext="edit" spidmax="1026
+	" />\n</xml><![endif]--><!--[if gte mso 9]><xml>\n<o:shapelayout v:ext="ed
+	it">\n<o:idmap v:ext="edit" data="1" />\n</o:shapelayout></xml><![endif]--
+	></head><body lang=EN-US link="#0563C1" vlink="#954F72" style='word-wrap:b
+	reak-word'><div class=WordSection1><p class=MsoNormal><span style='font-si
+	ze:11.5pt\;font-family:"Arial"\,sans-serif\;color:#1D1C1D\;background:#F8F
+	8F8'>Topic: Roswell Grace@Work - 12/11 Meeting<o:p></o:p></span></p><p cla
+	ss=MsoNormal><span style='font-size:11.5pt\;font-family:"Arial"\,sans-seri
+	f\;color:#1D1C1D\;background:#F8F8F8'><o:p>&nbsp\;</o:p></span></p><p clas
+	s=MsoNormal><span style='font-size:11.5pt\;font-family:"Arial"\,sans-serif
+	\;color:#1D1C1D\;background:#F8F8F8'>Meet us in person at 555 South Atlant
+	a St. Suite B500 Roswell\, GA 30075<o:p></o:p></span></p><p class=MsoNorma
+	l><span style='font-size:11.5pt\;font-family:"Arial"\,sans-serif\;color:#1
+	D1C1D\;background:#F8F8F8'><o:p>&nbsp\;</o:p></span></p><p class=MsoNormal
+	><span style='font-size:11.5pt\;font-family:"Arial"\,sans-serif\;color:#1D
+	1C1D\;background:#F8F8F8'>OR Online at:<o:p></o:p></span></p><p class=MsoN
+	ormal><span style='font-size:11.5pt\;font-family:"Arial"\,sans-serif\;colo
+	r:#1D1C1D'><br></span><a href="https://us02web.zoom.us/j/87594706023?pwd=S
+	0NIMTRsdU0rQitjdE9kT3pjSkY0QT09" target="_blank"><span style='font-size:11
+	.5pt\;font-family:"Arial"\,sans-serif\;background:#F8F8F8'>https://us02web
+	.zoom.us/j/87594706023?pwd=S0NIMTRsdU0rQitjdE9kT3pjSkY0QT09</span></a><spa
+	n style='font-size:11.5pt\;font-family:"Arial"\,sans-serif\;color:#1D1C1D\
+	;background:#F8F8F8'>Meeting ID: 875 9470 6023</span><span style='font-siz
+	e:11.5pt\;font-family:"Arial"\,sans-serif\;color:#1D1C1D'><br><span style=
+	'background:#F8F8F8'>Passcode: 093164</span><br><span style='background:#F
+	8F8F8'>One tap mobile</span><br></span><a href="tel:+13017158592\,\,875947
+	06023#\,\,\,\,\,\,0#\,\,093164#" target="_blank"><span style='font-size:11
+	.5pt\;font-family:"Arial"\,sans-serif\;background:#F8F8F8'>+13017158592\,\
+	,87594706023#\,\,\,\,\,\,0#\,\,093164#</span></a><span style='font-size:11
+	.5pt\;font-family:"Arial"\,sans-serif\;color:#1D1C1D\;background:#F8F8F8'>
+	&nbsp\;US (Washington D.C)</span><span style='font-size:11.5pt\;font-famil
+	y:"Arial"\,sans-serif\;color:#1D1C1D'><br></span><a href="tel:+13126266799
+	\,\,87594706023#\,\,\,\,\,\,0#\,\,093164#" target="_blank"><span style='fo
+	nt-size:11.5pt\;font-family:"Arial"\,sans-serif\;background:#F8F8F8'>+1312
+	6266799\,\,87594706023#\,\,\,\,\,\,0#\,\,093164#</span></a><span style='fo
+	nt-size:11.5pt\;font-family:"Arial"\,sans-serif\;color:#1D1C1D\;background
+	:#F8F8F8'>&nbsp\;US (Chicago)Dial by your location</span><span style='font
+	-size:11.5pt\;font-family:"Arial"\,sans-serif\;color:#1D1C1D'><br><span st
+	yle='background:#F8F8F8'>&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;
+	&nbsp\;</span></span><a href="tel:+13017158592" target="_blank"><span styl
+	e='font-size:11.5pt\;font-family:"Arial"\,sans-serif\;background:#F8F8F8'>
+	+1 301 715 8592</span></a><span style='font-size:11.5pt\;font-family:"Aria
+	l"\,sans-serif\;color:#1D1C1D\;background:#F8F8F8'>&nbsp\;US (Washington D
+	.C)</span><span style='font-size:11.5pt\;font-family:"Arial"\,sans-serif\;
+	color:#1D1C1D'><br><span style='background:#F8F8F8'>&nbsp\;&nbsp\;&nbsp\;&
+	nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;</span></span><a href="tel:+13126266799"
+	 target="_blank"><span style='font-size:11.5pt\;font-family:"Arial"\,sans-
+	serif\;background:#F8F8F8'>+1 312 626 6799</span></a><span style='font-siz
+	e:11.5pt\;font-family:"Arial"\,sans-serif\;color:#1D1C1D\;background:#F8F8
+	F8'>&nbsp\;US (Chicago)</span><span style='font-size:11.5pt\;font-family:"
+	Arial"\,sans-serif\;color:#1D1C1D'><br><span style='background:#F8F8F8'>&n
+	bsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;</span></span><a hre
+	f="tel:+16465588656" target="_blank"><span style='font-size:11.5pt\;font-f
+	amily:"Arial"\,sans-serif\;background:#F8F8F8'>+1 646 558 8656</span></a><
+	span style='font-size:11.5pt\;font-family:"Arial"\,sans-serif\;color:#1D1C
+	1D\;background:#F8F8F8'>&nbsp\;US (New York)</span><span style='font-size:
+	11.5pt\;font-family:"Arial"\,sans-serif\;color:#1D1C1D'><br><span style='b
+	ackground:#F8F8F8'>&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\
+	;</span></span><a href="tel:+12532158782" target="_blank"><span style='fon
+	t-size:11.5pt\;font-family:"Arial"\,sans-serif\;background:#F8F8F8'>+1 253
+	 215 8782</span></a><span style='font-size:11.5pt\;font-family:"Arial"\,sa
+	ns-serif\;color:#1D1C1D\;background:#F8F8F8'>&nbsp\;US (Tacoma)</span><spa
+	n style='font-size:11.5pt\;font-family:"Arial"\,sans-serif\;color:#1D1C1D'
+	><br><span style='background:#F8F8F8'>&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&
+	nbsp\;&nbsp\;&nbsp\;</span></span><a href="tel:+13462487799" target="_blan
+	k"><span style='font-size:11.5pt\;font-family:"Arial"\,sans-serif\;backgro
+	und:#F8F8F8'>+1 346 248 7799</span></a><span style='font-size:11.5pt\;font
+	-family:"Arial"\,sans-serif\;color:#1D1C1D\;background:#F8F8F8'>&nbsp\;US 
+	(Houston)</span><span style='font-size:11.5pt\;font-family:"Arial"\,sans-s
+	erif\;color:#1D1C1D'><br><span style='background:#F8F8F8'>&nbsp\;&nbsp\;&n
+	bsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;</span></span><a href="tel:+166990
+	09128" target="_blank"><span style='font-size:11.5pt\;font-family:"Arial"\
+	,sans-serif\;background:#F8F8F8'>+1 669 900 9128</span></a><span style='fo
+	nt-size:11.5pt\;font-family:"Arial"\,sans-serif\;color:#1D1C1D\;background
+	:#F8F8F8'>&nbsp\;US (San Jose)</span><span style='font-size:11.5pt\;font-f
+	amily:"Arial"\,sans-serif\;color:#1D1C1D'><br><span style='background:#F8F
+	8F8'>Meeting ID: 875 9470 6023</span><br><span style='background:#F8F8F8'>
+	Passcode: 093164</span><br><span style='background:#F8F8F8'>Find your loca
+	l number:&nbsp\;</span></span><a href="https://us02web.zoom.us/u/kd1F89ndV
+	4" target="_blank"><span style='font-size:11.5pt\;font-family:"Arial"\,san
+	s-serif\;background:#F8F8F8'>https://us02web.zoom.us/u/kd1F89ndV4</span></
+	a><o:p></o:p></p></div></body></html>
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-APPTSEQTIME:20201210T225019Z
+X-MS-OLK-AUTOFILLLOCATION:FALSE
+X-MS-OLK-CONFTYPE:0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+END:VCALENDAR

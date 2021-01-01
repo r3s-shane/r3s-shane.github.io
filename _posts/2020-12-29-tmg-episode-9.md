@@ -56,7 +56,7 @@ The SUNBURST Hack is perhaps the biggest security headline of 2020, impacting or
 + **C2 Infrastructure was Pivotal:** This highlights the additional need for effective classification and segmentation of networks, and ingress/egress rules that limit traffic based on business requirements.
 + **Off the Shelf Pentest Tools Were Used For Harm:** This further highlights the need to control the use of privileged utility programs in the organization, and detect and prevent their usage if not explicitly allowed. 
 
-#### My Favorite Articles Breaking Down Sunburst ####
+## Further Reading on Sunburst ##
 + [SUNBURST, TEARDROP and the NetSec New Normal](https://research.checkpoint.com/2020/sunburst-teardrop-and-the-netsec-new-normal/), by Check Point Research
 + [FireEye Hack Turns into a Global Supply Chain Attack](https://securityboulevard.com/2020/12/fireeye-hack-turns-into-a-global-supply-chain-attack/), by Security Boulevard
 + [New Evidence Suggests SolarWinds' Codebase Was Hacked to Inject Backdoor](https://thehackernews.com/2020/12/new-evidence-suggests-solarwinds.html), by The Hacker News

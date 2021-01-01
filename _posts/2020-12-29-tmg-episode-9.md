@@ -19,7 +19,7 @@ tags:
 ## Podcast Summary ##
 The SUNBURST Hack is perhaps the biggest security headline of 2020, impacting organizations like SolarWinds, FireEye, and thousands of others. In this episode of TMG, Shane and Christian break down the SUNBURST Hack, how it happened, and what you can do about it. 
 
-## Effectively Auditing the SDLC ##
+## Breaking Down the SUNBURST Hack ##
 
 #### Quick Overview of Sunburst and How We Got Here ####
 + In early December of 2020, FireEye disclosed that they were victim to a nation state that resulted in the theft of some 300 Red Team assessment tools.

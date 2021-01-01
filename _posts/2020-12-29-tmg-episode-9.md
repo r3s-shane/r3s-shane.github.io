@@ -52,7 +52,7 @@ The SUNBURST Hack is perhaps the biggest security headline of 2020, impacting or
 + **Security Tooling Matters:** Sunburst would abort itself if it detected certain types of tooling. Notably EDR and Nextgen AV (like Crowdstrike and SentinelOne), as well as certain network forensics and monitoring tools (reference Appendix A in Check Point Research's article linked below). 
 + **SDLC and Change Management Security is an Achilles Heel:** The hackers infiltrated source code, build servers, or both. The attackers went undetected for over a year. 
 + **Defense in Depth Matters:** The Sunburst attack was a carefully implemented, phased attack. Any good safeguard along the way may have caused it to abort itself. 
-+ **All attacks ran disguised as legitimate processes or in memory only:** This further highlights the fact that traditional AV products are dead. EDR and Nextgen AV is the only way to go.
++ **All Attacks Ran Disguised as Legitimate Processes or in Memory Only:** This further highlights the fact that traditional AV products are dead. EDR and Nextgen AV is the only way to go.
 + **C2 Infrastructure was Pivotal:** This highlights the additional need for effective classification and segmentation of networks, and ingress/egress rules that limit traffic based on business requirements.
 + **Off the Shelf Pentest Tools Were Used For Harm:** This further highlights the need to control the use of privileged utility programs in the organization, and detect and prevent their usage if not explicitly allowed. 
 

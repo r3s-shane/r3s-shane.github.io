@@ -42,7 +42,7 @@ In this episode of Tuesday Morning Grind, we talk about the Systems Development 
 
 #### What is next in the series? ####
 - Part 2: [DevOps and DevSecOps Overview](https://r3s-shane.github.io/2020/12/08/tmg-episode-7/)
-- Part 3: How to Effectively Audit the SDLC for DevOps
+- Part 3: [How to Effectively Audit the SDLC for DevOps](https://r3s-shane.github.io/2020/12/15/tmg-episode-8/)
 
 ### More About The Tuesday Morning Grind
 The Tuesday Morning Grind is a podcast I do every Tuesday at 7am with my teammate, [Christian Hyatt](https://www.linkedin.com/in/christianhyatt/).  You can watch the livestream on [Twitch](https://www.twitch.tv/risk3sixty), catch the video later on [Youtube](https://www.youtube.com/channel/UCjcD3Vc3Z1FSncd2BvRp9vQ/featured) or subscribe on your platform of choice over at [Anchor FM](https://anchor.fm/risk3sixty).
